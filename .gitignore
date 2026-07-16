@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.sublime-*
+
+# Node (only relevant if you ever add a build tool)
+node_modules/
+dist/
+.cache/
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Local scratch / test folders
+_wtest/
